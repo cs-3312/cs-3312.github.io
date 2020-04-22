@@ -1,0 +1,106 @@
+[
+  {
+      "letter": "Aa",
+      "audio": "A.mp3"
+  },
+  {
+      "letter": "Bb",
+      "audio": "B.mp3"
+  },
+  {
+      "letter": "Cc",
+      "audio": "C.mp3"
+  },
+  {
+      "letter": "Dd",
+      "audio": "D.mp3"
+  },
+  {
+      "letter": "Ee",
+      "audio": "E.mp3"
+  },
+  {
+      "letter": "Ff",
+      "audio": "F.mp3"
+  },
+  {
+      "letter": "Gg",
+      "audio": "G.mp3"
+  },
+  {
+      "letter": "Hh",
+      "audio": "H.mp3"
+  },
+  {
+      "letter": "Ii",
+      "audio": "I.mp3"
+  },
+  {
+      "letter": "Jj",
+      "audio": "J.mp3"
+  },
+  {
+      "letter": "Kk",
+      "audio": "K.mp3"
+  },
+  {
+      "letter": "Ll",
+      "audio": "L.mp3"
+  },
+  {
+      "letter": "Mm",
+      "audio": "M.mp3"
+  },
+  {
+      "letter": "Nn",
+      "audio": "N.mp3"
+  },
+  {
+      "letter": "Oo",
+      "audio": "O.mp3"
+  },
+  {
+      "letter": "Pp",
+      "audio": "P.mp3"
+  },
+  {
+      "letter": "Qq",
+      "audio": "Q.mp3"
+  },
+  {
+      "letter": "Rr",
+      "audio": "R.mp3"
+  },
+  {
+      "letter": "Ss",
+      "audio": "S.mp3"
+  },
+  {
+      "letter": "Tt",
+      "audio": "T.mp3"
+  },
+  {
+      "letter": "Uu",
+      "audio": "U.mp3"
+  },
+  {
+      "letter": "Vv",
+      "audio": "V.mp3"
+  },
+  {
+      "letter": "Ww",
+      "audio": "W.mp3"
+  },
+  {
+      "letter": "Xx",
+      "audio": "X.mp3"
+  },
+  {
+      "letter": "Yy",
+      "audio": "Y.mp3"
+  },
+  {
+      "letter": "Zz",
+      "audio": "Z.mp3"
+  }
+]
